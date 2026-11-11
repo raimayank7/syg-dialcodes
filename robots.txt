@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dialcodes.shareyourgroup.com/sitemap.xml
